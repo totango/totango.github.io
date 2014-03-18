@@ -427,4 +427,18 @@ Small Device Styles
     font-size: 11px;
   }
 
+  .logo_wrapper {
+    float:inherit;
+    margin-left:auto;
+    margin-right:auto;
+    width:50%;
+  }
+
+  .fb_wrapper {
+    float:inherit;
+    margin-left:auto;
+    margin-right:auto;
+    width:50%;
+  }
+
 }
