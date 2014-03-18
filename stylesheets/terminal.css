@@ -92,5 +92,7 @@ body{
 }
 .window pre{
   color:#fff;
-  margin:3px;
+  margin:3px 10px;
+  font-family: monospace;
+  font-weight: bold;
 }
