@@ -269,7 +269,7 @@ Full-Width Styles
 
 .inner {
   position: relative;
-  max-width: 640px;
+  max-width: 700px;
   padding: 20px 10px;
   margin: 0 auto;
 }
@@ -446,5 +446,14 @@ Small Device Styles
     margin-right:auto;
     width:25%;
   }
+  
+  #userMan {
+    position: absolute; 
+    left: 30px; 
+    top:450px; 
+    border: none; 
+    box-shadow: none;
+  }
+
 
 }
