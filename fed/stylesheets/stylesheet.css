@@ -456,9 +456,9 @@ Small Device Styles
   }
   
   #userMan {
-    position: absolute; 
-    left: 30px; 
-    top:450px; 
+    position: relative; 
+    left: 60px; 
+    top:30px; 
     border: none; 
     box-shadow: none;
   }
