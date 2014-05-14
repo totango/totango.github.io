@@ -466,6 +466,9 @@ Small Device Styles
     width:25%;
   }
   
+}
+
+@media screen and (max-width: 600px) {
   .CvBtn {
     margin:0 auto;
     font-size: 50px; 
@@ -475,7 +478,6 @@ Small Device Styles
     color: #fff;
     text-align: center;
   }
-  
 }
 
 @media screen and (max-width: 1400px) {
