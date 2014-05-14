@@ -171,7 +171,7 @@ p img {
 }
 
 pre {
-  width: 100%;
+  width: 96%;
   /*padding: 10px;*/
   /*box-shadow: 0 0 10px rgba(0,0,0,.1);*/
   overflow: auto;
@@ -454,13 +454,16 @@ Small Device Styles
     margin-right:auto;
     width:25%;
   }
-  
+
+}
+
+@media screen and (max-width: 1400px) {
   #userMan {
-    position: relative; 
+    /*position: relative; 
     left: 60px; 
     top:30px; 
     border: none; 
-    box-shadow: none;
+    box-shadow: none;*/
+    display: none;
   }
-
 }
