@@ -389,6 +389,17 @@ Full-Width Styles
     box-shadow: none;
   }
 
+.CvBtn {
+  margin:0 auto;
+  font-size: 20px; 
+  font-weight: bold;
+  background-color: #26b27f;
+  padding: 14px;
+  color: #fff;
+  text-align: center;
+  width: 66%;
+}
+
 /*******************************************************************************
 Small Device Styles
 *******************************************************************************/
@@ -454,7 +465,17 @@ Small Device Styles
     margin-right:auto;
     width:25%;
   }
-
+  
+  .CvBtn {
+    margin:0 auto;
+    font-size: 50px; 
+    font-weight: bold;
+    background-color: #26b27f;
+    padding: 50px;
+    color: #fff;
+    text-align: center;
+  }
+  
 }
 
 @media screen and (max-width: 1400px) {
